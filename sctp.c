@@ -40,7 +40,7 @@ cd /path/to/sctp
 
 #ifdef DEBUG_SCTP
 /* If we're debugging the SCTP messaging, save the files here (edit path) */
-const char *debug_folder = "/path/to/sctp";
+const char *debug_folder = "./sctp";
 #endif
 
 static const char *default_label = "JanusDataChannel";
