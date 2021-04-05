@@ -25,7 +25,7 @@
 #define INET6 1
 
 /* Uncomment the line below to enable SCTP debugging to files */
-//~ #define DEBUG_SCTP
+#define DEBUG_SCTP
 
 #include <sys/types.h>
 #include <sys/socket.h>
